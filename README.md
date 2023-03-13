@@ -7,9 +7,11 @@
 
 ## ⭐ Introduction
 
-This is a Clock App built using HTML, CSS, Javascript. which show the current time according to the system
+#This is a Clock App built using HTML, CSS, Javascript. which show the current time according to the system
+<br/>
 <img width="1792"  src="Screenshot (80).png">
 <br/>
+<img width="1792"  src="Screenshot (81).png">
 <br/>
 
 ## 🔥 Getting Started With The Project
